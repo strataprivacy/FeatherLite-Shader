@@ -19,15 +19,6 @@ FeatherLite is developed solo by **resurrect5** and is still in active developme
 
 ---
 
-## Screenshots
-
-| | |
-|---|---|
-| ![Day](images/screenshot-day.png) | ![Forest](images/screenshot-forest.png) |
-| ![Water](images/screenshot-water.png) | ![Sunset](images/screenshot-sunset.png) |
-
----
-
 ## Features
 
 - **Stylized Lighting** - soft light bands instead of flat, plastic shading
