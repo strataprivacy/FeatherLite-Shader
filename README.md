@@ -2,7 +2,7 @@
 
 **A Lightweight Stylized Shaderpack With Soft Lighting, Rich Shadows And Atmospheric Skies, Built For Performance.**
 
-![FeatherLite Banner](images/banner.png)
+
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.21%2B-green)
 ![Loader](https://img.shields.io/badge/Requires-Iris%20%2B%20Sodium-blue)
