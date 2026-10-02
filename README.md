@@ -2,12 +2,11 @@
 
 **A Lightweight Stylized Shaderpack With Soft Lighting, Rich Shadows And Atmospheric Skies, Built For Performance.**
 
-
-
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.21%2B-green)
 ![Loader](https://img.shields.io/badge/Requires-Iris%20%2B%20Sodium-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Status](https://img.shields.io/badge/Status-Work%20in%20Progress-orange)
+[![CurseForge](https://img.shields.io/badge/Download-CurseForge-F16436)](https://www.curseforge.com/minecraft/shaders/featherlite-shaders)
 
 ---
 
@@ -16,6 +15,12 @@
 FeatherLite is a clean, lightweight shaderpack that gives Minecraft a soft, stylized look. Lighting has gentle bands, shadows are cool-toned, sunlight is warm, outlines are subtle and the sky is atmospheric. It keeps the game's original pixel textures and is designed to run well on modest hardware.
 
 FeatherLite is developed solo by **resurrect5** and is still in active development.
+
+---
+
+## Download
+
+Get FeatherLite on **[CurseForge](https://www.curseforge.com/minecraft/shaders/featherlite-shaders)** or from the [Releases](../../releases) page.
 
 ---
 
@@ -42,7 +47,7 @@ FeatherLite is developed solo by **resurrect5** and is still in active developme
 ## Installation
 
 1. Install **Iris** and **Sodium** for your Minecraft version
-2. Download the latest `FeatherLite.zip` from [Releases](../../releases)
+2. Download FeatherLite from [CurseForge](https://www.curseforge.com/minecraft/shaders/featherlite-shaders) or [Releases](../../releases)
 3. Put the zip into `.minecraft/shaderpacks/` (do not unzip it)
 4. In game, go to **Options > Video Settings > Shader Packs** and select FeatherLite
 5. Open **Shader Pack Settings** to choose a profile or tune options
